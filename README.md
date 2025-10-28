@@ -13,7 +13,7 @@
 7. Конец
 
 ### Блок схема
-![Блок схема алгоритма](4.drawio.png)
+![Блок схема алгоритма](4.drawio(1).png)
 ## 2. Реализация программы:
 	   #define _CRT_SECURE_NO_WARNINGS
 	#include <locale.h>
